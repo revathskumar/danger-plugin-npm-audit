@@ -1,6 +1,6 @@
 {
   "name": "danger-plugin-npm-audit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Danger plugin for npm audit summary",
   "main": "dist/index.js",
   "scripts": {
