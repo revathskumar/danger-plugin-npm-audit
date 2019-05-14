@@ -21,6 +21,10 @@ import npmAudit from "danger-plugin-npm-audit";
 schedule(npmAudit());
 ```
 
+## Sample message
+
+![sample message](https://raw.githubusercontent.com/revathskumar/danger-plugin-npm-audit/master/images/message.png)
+
 ## License
 
 Please see [License](https://github.com/revathskumar/danger-plugin-npm-audit/blob/master/License)
