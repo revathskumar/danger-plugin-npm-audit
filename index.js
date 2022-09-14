@@ -46,6 +46,6 @@ export default async function npmAudit(options = {}) {
       fail(severityline);
     }
   } catch (err) {
-    fail("npm audit plugin error: " + error.message);
+    fail("npm audit plugin error: " + err.message);
   }
 }
